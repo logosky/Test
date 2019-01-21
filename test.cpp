@@ -26,7 +26,6 @@ int main(int argc, char** argv)
     for(int i=0;i<argc;i++)
         cout<<"i:"<<i <<" -> "<<argv[i]<<endl;
     
-    //srand(time(NULL));
     for(int i = 0;i<10;i++)
     {
         int a = rand() % 100000;
