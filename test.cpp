@@ -32,7 +32,9 @@ int main(int argc, char** argv)
         int b = rand() % 100000;
         cout<<"a:"<<a <<",b:"<< b<<endl;
     }
-    
+   
+    // test loggg
+
     int len = 0;
     char log_buff[1024] = {0};
 
