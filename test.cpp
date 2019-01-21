@@ -33,7 +33,7 @@ int main(int argc, char** argv)
         cout<<"a:"<<a <<",b:"<< b<<endl;
     }
     
-    // test log
+    // aaa test log aaa
     
     int len = 0;
     char log_buff[1024] = {0};
